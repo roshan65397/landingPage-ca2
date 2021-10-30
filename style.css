@@ -1,0 +1,61 @@
+html{
+    background: black;
+}
+
+.container{
+    
+}
+
+ul{
+    text-decoration: none;
+    list-style: none;
+    text-align: end;
+    color: rgb(114, 58, 114);
+}
+
+#nav {
+    background-color:#F0D5AA;
+    
+    padding:3px;
+    }
+    #nav ul {
+    list-style-type:none;
+    text-align:start;
+    
+    
+    }
+    #nav ul li {
+    display:inline;
+    }
+   
+    .list
+{
+    padding: 5px;
+}
+.list:hover
+{
+   background-color: white;
+}
+
+.login{
+    color: white;
+    text-align-last: center;
+    background-color:brown;
+    width: 322px;
+    margin-left: 50%;
+    height: 400px;
+}
+
+.formFill{
+    text-align-last: center;
+}
+
+.linkDiv{
+    background-color: white;
+}
+
+#nav {
+    background-color: #ebe6dd;
+    padding: 3px
+;
+}
